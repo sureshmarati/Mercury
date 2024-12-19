@@ -1,0 +1,11 @@
+2024-06-18 16:49:18,827  INFO [main] Base:38 - Webpage is opened
+2024-06-18 16:49:18,829 ERROR [main] Base:39 - error message
+2024-06-18 16:49:18,829 FATAL [main] Base:40 - this is fatal error
+2024-06-18 16:49:18,954  INFO [main] Base:16 - webpage is opened
+2024-06-18 16:49:31,635  INFO [main] Base:18 - navigated to the page
+2024-06-18 16:49:31,786  INFO [main] Base:20 - firstname is entered
+2024-06-18 16:49:31,869  INFO [main] Base:22 - lastname entered
+2024-06-18 16:49:31,967  INFO [main] Base:24 - phone number entered
+2024-06-18 16:49:32,052  INFO [main] Base:26 - username entered
+2024-06-18 16:49:32,240  INFO [main] Base:28 - address entered
+2024-06-18 16:49:32,362  INFO [main] Base:30 - city entered
